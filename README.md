@@ -8,7 +8,7 @@ This repository is organized as follows:
 * Folder B
 * Folder C
 
-## Requirements:
+## Requirements
 * Python 3.8
 * Numpy
 * Pandas
