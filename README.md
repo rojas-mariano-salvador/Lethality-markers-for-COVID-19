@@ -14,6 +14,7 @@ This repository is organized as follows:
 * Pandas
 * Matplotlib
 * XGBoost
+* SHAP
 
 ## Database
 
