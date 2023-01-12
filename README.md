@@ -24,8 +24,8 @@ The source dataset is available at [URL](http://covid-19.iimas.unam.mx/).
 
 ## Citation
 -Title = {Lethality risk markers by sex and age-group for COVID-19 in Mexico: a cross-sectional study based on
-machine learning approach},
--Journal = {BMC Infectious Diseases},
+machine learning approach}
+-Journal = {BMC Infectious Diseases}
 -Volume = {23},
 -Issue = {18},
 -Pages = {1-14},
