@@ -22,5 +22,15 @@ The source of information was the cases reported to the National Epidemiological
 
 The source dataset is available at [URL](http://covid-19.iimas.unam.mx/).
 
-## DOI
-*
+## Citation
+Title = {Lethality risk markers by sex and age-group for COVID-19 in Mexico: a cross-sectional study based on
+machine learning approach},
+Journal = {BMC Infectious Diseases},
+Volume = {23},
+Issue = {18},
+Pages = {1-14},
+Year = {2023},
+ISSN = {1471-2334},
+DOI = {doi:10.1186/s12879-022-07951-w},
+URL = {https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-022-07951-w},
+Author = {Mariano Rojas-García; Blanca Vázquez; Kirvis Torres-Poveda and Vicente Madrid-Marina}
