@@ -4,7 +4,7 @@ This repository identified lethality markers for women and men for COVID-19 from
 
 ## Brief introduction
 This repository is organized as follows:
-* Training: this folder contains in different notebooks the patient selection  
+* [Training]: this folder contains in different notebooks the patient selection  
 * Risk markers: 
 
 ## Requirements
