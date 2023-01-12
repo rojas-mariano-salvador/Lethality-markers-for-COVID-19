@@ -13,6 +13,7 @@ This repository is organized as follows:
 * Pandas
 * Matplotlib
 * Seaborn
+* Sklearn 
 * XGBoost
 * SHAP
 
