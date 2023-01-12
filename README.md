@@ -23,7 +23,7 @@ The source of information was the cases reported to the National Epidemiological
 The source dataset is available at [URL](http://covid-19.iimas.unam.mx/).
 
 ## Citation
--Title = _*_Lethality risk markers by sex and age-group for COVID-19 in Mexico: a cross-sectional study based on
+**Title** = _*_Lethality risk markers by sex and age-group for COVID-19 in Mexico: a cross-sectional study based on
 machine learning approach_*_
 
 **Journal** = _*_BMC Infectious Diseases_*_
